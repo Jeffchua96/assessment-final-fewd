@@ -1,25 +1,18 @@
-@font-face {
-    font-family: "zantrokeregular";
-    src: url("fonts/zantroke-webfont.woff2") format("woff2"), url("fonts/zantroke-webfont.woff");
-        format("woff");
-    font-weight: bold;
-    font-style: normal;
-}
+
 
 body {
     grid-row: row;
-    font-size: xx-large;
+    font-size: small;
     font-family: 'monospace' cursive;
     background-color: lavender;
 }
-.img{
-    display:flex;
-    width:
-
-
-    
+.header{
+    display:plex;
 }
-.h1 {
-    display: grid;
+
+h1 {
+    display: flex;
+    font-size: large;
     justify-content: end;
+    
 }
