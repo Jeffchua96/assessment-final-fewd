@@ -7,14 +7,10 @@
 }
 
 body {
-    width: auto;
-    margin: 0 auto;
-    border-block: none;
+
+ 
 }
 
 h1 {
-    justify-content: end;
-    display: grid;
-    font-size: -webkit-xxx-large;
-    font-family: sans-serif;
+    
 }
