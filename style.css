@@ -7,10 +7,19 @@
 }
 
 body {
-
- 
+    grid-row: row;
+    font-size: xx-large;
+    font-family: 'monospace' cursive;
+    background-color: lavender;
 }
+.img{
+    display:flex;
+    width:
 
-h1 {
+
     
+}
+.h1 {
+    display: grid;
+    justify-content: end;
 }
